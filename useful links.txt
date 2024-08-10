@@ -1,0 +1,23 @@
+PennyLane documentation and tutorials: 
+
+https://docs.pennylane.ai/en/stable/introduction/circuits.html
+
+https://docs.pennylane.ai/en/stable/code/api/pennylane.math.requires_grad.html
+
+https://docs.pennylane.ai/en/stable/introduction/interfaces/numpy.html
+
+
+Links to articles: 
+
+https://link.springer.com/article/10.1007/s11128-022-03809-x
+
+https://www.sciencedirect.com/science/article/abs/pii/S1526612519302245
+
+https://link.springer.com/article/10.1007/s42484-023-00117-0
+
+
+Links for the related books:
+
+https://link.springer.com/book/10.1007/978-3-319-96424-9
+
+https://michaelnielsen.org/qcqi/
